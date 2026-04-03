@@ -61,7 +61,7 @@ Pricing packages with horizontal scroll
 WhatsApp-integrated contact form
 
 🛠️ Tech: HTML, CSS, JavaScript
-🔗 [Live Demo](https://suryaprakashrajesh.github.io/flawless_webpage1/) | [Repository](https://github.com/suryaprakashrajesh/flawless_webpage.git)
+🔗 [Live Demo](https://suryaprakashrajesh.github.io/flawless_webpage/) | [Repository](https://github.com/suryaprakashrajesh/flawless_webpage.git)
 
 🎯 Focus: UI/UX design and responsive development
 
