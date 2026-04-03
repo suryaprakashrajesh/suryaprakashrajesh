@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surya Prakash</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Java+Enthusiast;Building+Real-World+Projects;UI%2FUX+Focused+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Building+Real-World+Projects;UI%2FUX+Focused+Developer" />
 </p>
 
 <p align="center">
