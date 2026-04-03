@@ -21,9 +21,13 @@
 
 ### 📌 Projects
 
-🔹 **Online Expense Tracker**
-- Track daily expenses with categories & reports
-- Built using Java + UI
+### 🎮 Genshin Photo Library Preview
+
+<p align="center">
+  <img src="https://suryaprakashrajesh.github.io/genshin-Library-/images/zibaiEvent.png" width="250"/>
+  <img src="https://suryaprakashrajesh.github.io/genshin-Library-/images/winter-miko.jpg" width="250"/>
+  <img src="https://suryaprakashrajesh.github.io/genshin-Library-/images/ittofontain.png" width="250"/>
+</p>
 
 🔹 **QR-Based ATM System**
 - Secure transaction system using QR authentication
@@ -48,7 +52,7 @@
 ### 📫 Connect With Me
 
 - 📧 Email: suryarajesh.tbm@gmail.com
-- 💼 LinkedIn: (Add your link here)
+- 💼 LinkedIn: www.linkedin.com/in/surya-prakash-r1793
 
 ---
 
