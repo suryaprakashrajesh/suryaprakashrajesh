@@ -22,6 +22,12 @@
 ### 📌 Projects
 
 ### 🎮 Genshin Photo Library Preview
+- 🖼️ A visual gallery of Genshin Impact characters & assets
+- 🔍 Browse, filter, and explore high-quality images
+- 🎨 Focused on clean UI, layout design, and smooth user experience
+- 📱 Responsive design for all devices
+- 🛠️ Tech: HTML, CSS, JavaScript  
+- 🔗 [Live Demo] https://suryaprakashrajesh.github.io/genshin-Library-/ | [Repository] https://github.com/suryaprakashrajesh/genshin-Library-.git
 
 <p align="center">
   <img src="https://suryaprakashrajesh.github.io/genshin-Library-/images/zibaiEvent.png" width="250"/>
