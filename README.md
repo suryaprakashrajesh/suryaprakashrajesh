@@ -44,6 +44,7 @@ Smooth browsing experience
 
 🛠️ Tech: HTML, CSS, JavaScript
 🔗 [Live Demo](https://suryaprakashrajesh.github.io/genshin-Library-/) | [Repository](https://github.com/suryaprakashrajesh/genshin-Library-.git)
+
 ---
 
 🔹 2. Flawless Photography Portfolio Website
