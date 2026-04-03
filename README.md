@@ -21,7 +21,7 @@
 
 ### 📌 Projects
 
-🎮 **Genshin Photo Library**
+**1.**🎮 **Genshin Photo Library**
 
 ✨ Features:
 - A modern image gallery showcasing Genshin Impact characters
@@ -41,7 +41,7 @@
   <img src="https://suryaprakashrajesh.github.io/genshin-Library-/images/ittofontain.png" width="260"/>
 </p>
 
- **Smart QR-Based ATM System**
+ **2.Smart QR-Based ATM System**
 
 A secure and fast ATM transaction system that uses QR code authentication to enable cash withdrawal in under 30 seconds.
 
