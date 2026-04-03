@@ -43,7 +43,7 @@ Smooth browsing experience
 🚀 Focus: UI/UX design and user interaction
 
 🛠️ Tech: HTML, CSS, JavaScript
-🔗 Live Demo | Repository
+🔗 [Live Demo](https://suryaprakashrajesh.github.io/genshin-Library-/) | [Repository](https://github.com/suryaprakashrajesh/genshin-Library-.git)
 ---
 
 🔹 2. Flawless Photography Portfolio Website
@@ -60,7 +60,7 @@ Pricing packages with horizontal scroll
 WhatsApp-integrated contact form
 
 🛠️ Tech: HTML, CSS, JavaScript
-🔗 Repository
+🔗 [Repository](https://github.com/suryaprakashrajesh/flawless_page.git)
 
 🎯 Focus: UI/UX design and responsive development
 
@@ -77,7 +77,7 @@ Temporary PIN for added security
 Faster and safer than traditional ATM systems
 
 🛠️ Tech: Python, Image Processing
-🔗 Repository
+🔗 [Repository](https://github.com/suryaprakashrajesh/Adaptive-Financial-Security-Framework.git)
 
 🎯 Focus: Security, speed, and seamless user experience
 ---
