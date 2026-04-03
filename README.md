@@ -30,25 +30,56 @@
 
 ### 📌 Projects
 
-🔹 **Genshin Photo Library**
-A modern image gallery with filtering and smooth UI.
+🔹 1. Genshin Photo Library
 
-🔗 [Live Demo](https://suryaprakashrajesh.github.io/genshin-Library-/) | [Repo](https://github.com/suryaprakashrajesh/genshin-Library-.git)
+A modern image gallery showcasing Genshin Impact characters with smooth UI and filtering.
+
+✨ Features:
+
+Search and filter functionality
+Clean and responsive UI design
+Smooth browsing experience
+
+🚀 Focus: UI/UX design and user interaction
+
+🛠️ Tech: HTML, CSS, JavaScript
+🔗 Live Demo | Repository
+---
+
+🔹 2. Flawless Photography Portfolio Website
+
+A modern photography portfolio website showcasing services, galleries, and client engagement.
+
+✨ Features:
+
+Dynamic gallery with category filters
+Dark / Light mode toggle
+Image lightbox viewer
+Smooth animations and UI effects
+Pricing packages with horizontal scroll
+WhatsApp-integrated contact form
+
+🛠️ Tech: HTML, CSS, JavaScript
+🔗 Repository
+
+🎯 Focus: UI/UX design and responsive development
 
 ---
 
-🔹 **Flawless Photography Portfolio Website**
-A responsive photography portfolio with modern UI and animations.
+🔹 3. Smart QR-Based ATM System
 
-🔗 [Repo](https://github.com/suryaprakashrajesh/flawless_page.git)
+A secure ATM system using QR authentication for fast transactions.
 
----
+✨ Features:
 
-🔹 **Smart QR-Based ATM System**
-A secure ATM system using QR authentication.
+QR-based cash withdrawal
+Temporary PIN for added security
+Faster and safer than traditional ATM systems
 
-🔗 [Repo](https://github.com/suryaprakashrajesh/Adaptive-Financial-Security-Framework.git)
+🛠️ Tech: Python, Image Processing
+🔗 Repository
 
+🎯 Focus: Security, speed, and seamless user experience
 ---
 
 ### 🏆 GitHub Trophies
