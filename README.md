@@ -21,7 +21,7 @@
 
 ### 📌 Projects
 
-**1.**🎮 **Genshin Photo Library**
+1. 🎮 **Genshin Photo Library**
 
 ✨ Features:
 - A modern image gallery showcasing Genshin Impact characters
@@ -41,7 +41,32 @@
   <img src="https://suryaprakashrajesh.github.io/genshin-Library-/images/ittofontain.png" width="260"/>
 </p>
 
- **2.Smart QR-Based ATM System**
+  🔹 **2. Flawless Photography Portfolio Website**
+- A modern and responsive photography portfolio website designed to showcase professional work, services, and client engagement with a visually appealing UI.
+
+✨ Features:
+
+- Dynamic gallery with category filters (Wedding, Birthday, Engagement, etc.)
+- Dark / Light mode toggle for better user experience
+- Interactive image lightbox viewer
+- Smooth scroll animations and modern UI effects
+- Pricing packages with horizontal scroll
+- Contact form with WhatsApp integration
+
+🛠️ Tech Stack:
+
+- HTML5, CSS3, JavaScript
+- Responsive Design (Mobile-first)
+- FontAwesome & Google Fonts
+
+🔗 Repository:
+https://github.com/suryaprakashrajesh/flawless_page.git
+
+🎯 Focus:
+UI/UX design, responsive web development, and real-world portfolio implementation
+
+
+ 🔹**3. Smart QR-Based ATM System**
 
 A secure and fast ATM transaction system that uses QR code authentication to enable cash withdrawal in under 30 seconds.
 
@@ -59,8 +84,7 @@ A secure and fast ATM transaction system that uses QR code authentication to ena
 🎯 Focus:
 Security, speed, and seamless user experience in ATM transactions
 
-🔹 **Portfolio Website**
-- Showcasing my skills and projects
+
 
 ---
 
