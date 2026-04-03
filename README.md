@@ -41,8 +41,23 @@
   <img src="https://suryaprakashrajesh.github.io/genshin-Library-/images/ittofontain.png" width="260"/>
 </p>
 
-🔹 **QR-Based ATM System**
-- Secure transaction system using QR authentication
+ **Smart QR-Based ATM System**
+
+A secure and fast ATM transaction system that uses QR code authentication to enable cash withdrawal in under 30 seconds.
+
+✨ Features:
+- QR-based cash withdrawal system
+- Temporary PIN for enhanced security
+- Faster transactions compared to traditional ATM flow
+- Reduced risk of ATM fraud and PIN theft
+
+🛠️ Tech Stack:
+- Python (QR code generation & scanning)
+- Image Processing
+- 🔗[Repository] https://github.com/suryaprakashrajesh/Adaptive-Financial-Security-Framework.git
+
+🎯 Focus:
+Security, speed, and seamless user experience in ATM transactions
 
 🔹 **Portfolio Website**
 - Showcasing my skills and projects
