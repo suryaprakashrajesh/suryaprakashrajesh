@@ -40,8 +40,7 @@ Python | Image Processing
 ![ATM Project](https://via.placeholder.com/800x400?text=ATM+Project+Preview)
 
 ### 🔗 Links:
-- 📂 GitHub Repo: YOUR_LINK_HERE
-- 🌐 Live Demo: YOUR_LINK_HERE
+- 📂 GitHub Repo: (https://github.com/suryaprakashrajesh/Adaptive-Financial-Security-Framework.git)
 
 ---
 
@@ -62,8 +61,8 @@ HTML, CSS, JavaScript
 ![Genshin Project](https://via.placeholder.com/800x400?text=Genshin+Gallery)
 
 ### 🔗 Links:
-- 📂 GitHub Repo: YOUR_LINK_HERE
-- 🌐 Live Demo: YOUR_LINK_HERE
+- 📂 GitHub Repo: (https://github.com/suryaprakashrajesh/genshin-Library-.git)
+- 🌐 Live Demo: (https://suryaprakashrajesh.github.io/genshin-Library-/)
 
 ---
 
@@ -83,8 +82,8 @@ HTML, CSS, JavaScript
 ![Portfolio Project](https://via.placeholder.com/800x400?text=Photography+Portfolio)
 
 ### 🔗 Links:
-- 📂 GitHub Repo: YOUR_LINK_HERE
-- 🌐 Live Demo: YOUR_LINK_HERE
+- 📂 GitHub Repo: (https://github.com/suryaprakashrajesh/flawless_webpage.git)
+- 🌐 Live Demo: (https://suryaprakashrajesh.github.io/flawless_webpage/)
 
 ---
 
