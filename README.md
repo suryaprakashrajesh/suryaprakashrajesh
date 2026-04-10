@@ -40,7 +40,7 @@ Python | Image Processing
 ![ATM Project](https://via.placeholder.com/800x400?text=ATM+Project+Preview)
 
 ### 🔗 Links:
-- 📂 GitHub Repo: (https://github.com/suryaprakashrajesh/Adaptive-Financial-Security-Framework.git)
+- 📂 GitHub Repo: https://github.com/suryaprakashrajesh/Adaptive-Financial-Security-Framework
 
 ---
 
@@ -61,8 +61,8 @@ HTML, CSS, JavaScript
 ![Genshin Project](https://via.placeholder.com/800x400?text=Genshin+Gallery)
 
 ### 🔗 Links:
-- 📂 GitHub Repo: (https://github.com/suryaprakashrajesh/genshin-Library-.git)
-- 🌐 Live Demo: (https://suryaprakashrajesh.github.io/genshin-Library-/)
+- 📂 GitHub Repo: https://github.com/suryaprakashrajesh/genshin-Library-
+- 🌐 Live Demo: https://suryaprakashrajesh.github.io/genshin-Library-/
 
 ---
 
@@ -82,30 +82,37 @@ HTML, CSS, JavaScript
 ![Portfolio Project](https://via.placeholder.com/800x400?text=Photography+Portfolio)
 
 ### 🔗 Links:
-- 📂 GitHub Repo: (https://github.com/suryaprakashrajesh/flawless_webpage.git)
-- 🌐 Live Demo: (https://suryaprakashrajesh.github.io/flawless_webpage/)
+- 📂 GitHub Repo: https://github.com/suryaprakashrajesh/flawless_webpage
+- 🌐 Live Demo: https://suryaprakashrajesh.github.io/flawless_webpage/
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryaprakashrajesh&show_icons=true&theme=radical" />>
+  <img src="https://github-readme-stats.vercel.app/api?username=suryaprakashrajesh&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaprakashrajesh&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suryaprakashrajesh&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=suryaprakashrajesh&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href=https://www.linkedin.com/in/surya-prakash-r1793/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/surya-prakash-r1793/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:suryarajesh.tbm@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href=" https://github.com/suryaprakashrajesh"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/suryaprakashrajesh"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
