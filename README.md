@@ -89,7 +89,7 @@ HTML, CSS, JavaScript
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryaprakashrajesh&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suryaprakashrajesh&show_icons=true&theme=radical" />>
 </p>
 
 ---
@@ -103,9 +103,9 @@ HTML, CSS, JavaScript
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/suryaprakashrajesh"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href=https://www.linkedin.com/in/surya-prakash-r1793/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:suryarajesh.tbm@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href=" https://github.com/suryaprakashrajesh"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
