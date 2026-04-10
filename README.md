@@ -1,118 +1,114 @@
 <h1 align="center">Hi 👋, I'm Surya Prakash</h1>
+<h3 align="center">🚀 Frontend Developer | React | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Building+Real-World+Projects;UI%2FUX+Focused+Developer" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suryaprakashrajesh&label=Profile%20Views&color=0e75b6&style=flat" />
+Building modern, responsive, and high-performance web applications with clean UI and seamless user experience.
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-* 🎓 B.Tech IT Graduate (CGPA: 8.1)
-* 💻 Frontend Developer
-* 🚀 Building real-world projects
-* 🌱 Learning Java & Full Stack Development
-* 💡 Passionate about UI/UX
+## 👨‍💻 About Me
+- 🎓 B.Tech IT Graduate (CGPA: 8.1)
+- 💻 Frontend Developer passionate about UI/UX
+- 🌱 Currently learning Full Stack Development (Java)
+- ⚡ Focused on building real-world, impactful projects
+- 🎯 Goal: Become a top-tier frontend developer
 
 ---
 
-### 🛠️ Tech Stack
-
+## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github" />
 </p>
 
 ---
 
-### 📌 Projects
+# 🔥 Featured Project
 
-🔹 1. Genshin Photo Library
+## 🔐 Smart QR-Based ATM System
+A secure ATM authentication system using QR codes for faster and safer transactions.
 
-A modern image gallery showcasing Genshin Impact characters with smooth UI and filtering.
+### 🚀 Features:
+- QR-based secure login instead of traditional PIN
+- Temporary PIN system for enhanced security
+- Faster transaction flow compared to traditional ATMs
 
-✨ Features:
+### 🛠 Tech Stack:
+Python | Image Processing
 
-Search and filter functionality
-Clean and responsive UI design
-Smooth browsing experience
+### 📸 Preview:
+![ATM Project](https://via.placeholder.com/800x400?text=ATM+Project+Preview)
 
-🚀 Focus: UI/UX design and user interaction
-
-🛠️ Tech: HTML, CSS, JavaScript
-🔗 [Live Demo](https://suryaprakashrajesh.github.io/genshin-Library-/) | [Repository](https://github.com/suryaprakashrajesh/genshin-Library-.git)
-
----
-
-🔹 2. Flawless Photography Portfolio Website
-
-A modern photography portfolio website showcasing services, galleries, and client engagement.
-
-✨ Features:
-
-Dynamic gallery with category filters
-Dark / Light mode toggle
-Image lightbox viewer
-Smooth animations and UI effects
-Pricing packages with horizontal scroll
-WhatsApp-integrated contact form
-
-🛠️ Tech: HTML, CSS, JavaScript
-🔗 [Live Demo](https://suryaprakashrajesh.github.io/flawless_webpage/) | [Repository](https://github.com/suryaprakashrajesh/flawless_webpage.git)
-
-🎯 Focus: UI/UX design and responsive development
+### 🔗 Links:
+- 📂 GitHub Repo: YOUR_LINK_HERE
+- 🌐 Live Demo: YOUR_LINK_HERE
 
 ---
 
-🔹 3. Smart QR-Based ATM System
+# 💼 Projects
 
-A secure ATM system using QR authentication for fast transactions.
+## 🎮 Genshin Photo Library
+A modern image gallery with smooth UI and dynamic filtering.
 
-✨ Features:
+### 🚀 Features:
+- Search & filter functionality
+- Smooth UI interactions
+- Responsive design
 
-QR-based cash withdrawal
-Temporary PIN for added security
-Faster and safer than traditional ATM systems
+### 🛠 Tech Stack:
+HTML, CSS, JavaScript
 
-🛠️ Tech: Python, Image Processing
-🔗 [Repository](https://github.com/suryaprakashrajesh/Adaptive-Financial-Security-Framework.git)
+### 📸 Preview:
+![Genshin Project](https://via.placeholder.com/800x400?text=Genshin+Gallery)
 
-🎯 Focus: Security, speed, and seamless user experience
+### 🔗 Links:
+- 📂 GitHub Repo: YOUR_LINK_HERE
+- 🌐 Live Demo: YOUR_LINK_HERE
+
 ---
 
-### 🏆 GitHub Trophies
+## 📸 Photography Portfolio Website
+A modern portfolio showcasing services, galleries, and client engagement.
 
+### 🚀 Features:
+- Dark/Light mode toggle
+- Smooth animations
+- Image lightbox viewer
+- WhatsApp contact integration
+
+### 🛠 Tech Stack:
+HTML, CSS, JavaScript
+
+### 📸 Preview:
+![Portfolio Project](https://via.placeholder.com/800x400?text=Photography+Portfolio)
+
+### 🔗 Links:
+- 📂 GitHub Repo: YOUR_LINK_HERE
+- 🌐 Live Demo: YOUR_LINK_HERE
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suryaprakashrajesh&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suryaprakashrajesh&show_icons=true&theme=radical" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryaprakashrajesh&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaprakashrajesh&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=suryaprakashrajesh&theme=radical" />
 </p>
 
 ---
 
-### 📫 Connect With Me
-
+## 📫 Connect With Me
 <p align="center">
-  <a href="mailto:suryarajesh.tbm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/surya-prakash-r1793">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/suryaprakashrajesh"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
 
-### ⚡ Fun Fact
-
-I turn ideas into real-world applications 🚀
+⭐️ From Surya Prakash | Building the future with code
